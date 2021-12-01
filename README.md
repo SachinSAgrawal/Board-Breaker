@@ -1,5 +1,5 @@
 # BOARD BREAKER 
--
+--
 INSTRUCTIONS
 Two expert Tae-kwon-do fighters duel for an epic battle lasting one minute.
 
@@ -17,5 +17,5 @@ Key S - moves down
 Key W - moves up
 Key A - moves left
 Key D - moves right
--
+--
 Please do not reproduce or distribute this code without my explicit permission. To request permission, email me at sachinagrawal0808@gmail.com.
