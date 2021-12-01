@@ -1,12 +1,12 @@
 # BOARD BREAKER 
 -
-##INSTRUCTIONS
+## INSTRUCTIONS
 Two expert Tae-kwon-do fighters duel for an epic battle lasting one minute.
 
-##GOAL
+## GOAL
 Break the most boards in one minute to become the Kung Fu Fighting Champion.
 
-##CONTROLS
+## CONTROLS
 Player 1: Arrows
 ↓ - moves down
 ↑ - moves up
