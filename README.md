@@ -19,5 +19,6 @@ Key W - moves up
 Key A - moves left
 Key D - moves right
 ```
+
 ## Permissions
-I am not the original owner of this code, however, the original owner has given me permission to edit and post the code. It is intended for personal use. Please do not reproduce or distribute this code without explicit permission. To request permission, email me at sachinagrawal0808@gmail.com.
+I am not the original owner of this code. However, the original owner has given me permission to edit and post it. Feel free to download the game for personal use but do not reproduce or distribute it.
